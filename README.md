@@ -1,5 +1,5 @@
-## This is the developed version of QA System.
-# Data and referenced corpus has been added in dataset folder.
+# This is the developed version of QA System.
+## Data and referenced corpus has been added in dataset folder.
 ### Document corpus: <br>
 * ducuments.json <br>
 * devel.json <br>
